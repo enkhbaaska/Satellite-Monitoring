@@ -1,0 +1,13 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Intermediates only. data/processed/ is deliberately COMMITTED.
+data/raw/
+
+# Notebooks are exploration only
+.ipynb_checkpoints/
+
+# Throwaway exploration
+scratch/
